@@ -21,6 +21,7 @@
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🔭 Future Features](#future-features)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
@@ -117,6 +118,14 @@ $ rails server
 Contributions, issues, and feature requests are welcome! Add suggestions by opening new issues.
 
 Feel free to check the [issues page](https://github.com/PrangonGhose/hello-rails-back-end/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Future Features (optional) -->
+
+## 🔭 Future Features <a name="future features"></a>
+
+- [ ] Adding API functionalities and frontend design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
