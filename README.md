@@ -30,6 +30,7 @@
 # 📖 Project Name
 
 ## Hello React-Rails Backend
+This is a sample project.
 
 ## About this project
 
